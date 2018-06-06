@@ -237,6 +237,7 @@
     "error-username-taken": "This username is already taken",
     "error-email-taken": "Email has already been taken",
     "export-board": "Export board",
+    "exportSelectionTsvPopup-title": "Export Excel TSV",
     "filter": "Filter",
     "filter-cards": "Filter Cards",
     "filter-clear": "Clear filter",
