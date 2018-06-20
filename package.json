@@ -27,6 +27,7 @@
     "bcrypt": "^2.0.1",
     "bson-ext": "^2.0.0",
     "es6-promise": "^4.2.4",
+    "fullcalendar": "^3.9.0",
     "meteor-node-stubs": "^0.4.1",
     "os": "^0.1.1",
     "xss": "^0.3.8"

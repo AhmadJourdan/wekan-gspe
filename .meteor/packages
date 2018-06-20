@@ -44,7 +44,6 @@ underscore@1.0.10
 alethes:pages
 arillo:flow-router-helpers
 audit-argument-checks@1.0.7
-harrison:papa-parse
 kadira:blaze-layout
 kadira:dochead
 meteorhacks:picker
@@ -85,3 +84,4 @@ accounts-password@1.5.0
 cfs:gridfs
 browser-policy
 eluck:accounts-lockout
+rzymek:fullcalendar
