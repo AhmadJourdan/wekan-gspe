@@ -18,13 +18,6 @@ template(name="cardDetails")
       p.warning {{_ 'card-archived'}}
 
     .card-details-items
-      .card-details-item.card-details-item-received
-        h3.card-details-item-title {{_ 'card-received'}}
-        if receivedAt
-          +cardReceivedDate
-        else
-          a.js-received-date {{_ 'add'}}
-
       .card-details-item.card-details-item-start
         h3.card-details-item-title {{_ 'card-start'}}
         if startAt
@@ -38,13 +31,6 @@ template(name="cardDetails")
           +cardDueDate
         else
           a.js-due-date {{_ 'add'}}
-
-      .card-details-item.card-details-item-end
-        h3.card-details-item-title {{_ 'card-end'}}
-        if endAt
-          +cardEndDate
-        else
-          a.js-end-date {{_ 'add'}}
 
     .card-details-items
       .card-details-item.card-details-item-members
